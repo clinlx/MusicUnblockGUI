@@ -20,6 +20,9 @@
 上面提到的网易云解锁代理项目地址：
 https://github.com/UnblockNeteaseMusic/server
 
+我的另一个相关的项目：
+https://github.com/clinlx/MusicLocalProxy
+
 开源协议：
 遵照引用的项目，使用 LGPL
 
